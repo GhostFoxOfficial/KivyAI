@@ -1,4 +1,4 @@
-Hello! Thanks for using my ai named kivyai, they will be your great companion.
+Hello! Thanks for using my ai named kivyai, he will be your great companion.
 
 1. Install the zip
 
@@ -14,7 +14,7 @@ Hello! Thanks for using my ai named kivyai, they will be your great companion.
 6. Go to the given url and now you all set! You now can interact with kivyai!
 
 
-(Also you need to install ollama, good luck with the ai).
+(Also you need to install ollama, good luck with the AI).
 
 
-ALSO!!! WHAT I FORGOT TO SAY! If you want to talk to kivy in terminal, you can launch assistant.py (even without internet)
+Try out Render version also: https://kivyai-render.onrender.com/
